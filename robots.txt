@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://darjeelingonyxspa-prog.github.io/onyx-spa-darjeeling/sitemap.xml
+Sitemap: https://www.onyxspadarjeeling.com/sitemap.xml
